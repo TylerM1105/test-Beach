@@ -15,7 +15,19 @@ import ava04 from "../images/ava-04.png";
 import ava05 from "../images/ava-05.png";
 import ava06 from "../images/ava-06.png";
 
+import cb1 from "../images/chillAlex.png"
+
 export const NFT__DATA = [
+  {
+    id: "cb1",
+    title: "Travel Monkey Club",
+    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    imgUrl: cb1,
+    creator: "Trista Francis",
+    creatorImg: ava01,
+    currentBid: 4.20,
+  },
+
   {
     id: "01",
     title: "Travel Monkey Club",
