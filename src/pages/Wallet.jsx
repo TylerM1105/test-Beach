@@ -8,25 +8,25 @@ import "../styles/wallet.css";
 const wallet__data = [
   {
     title: "Bitcoin",
-    desc: "Would you like to know more?",
+    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium accusamus repellat rerum consequatur explicabo? Reiciendis!",
     icon: "ri-bit-coin-line",
   },
 
   {
     title: "Coinbase",
-    desc: "Would you like to know more?",
+    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium accusamus repellat rerum consequatur explicabo? Reiciendis!",
     icon: "ri-coin-line",
   },
 
   {
     title: "Metamask",
-    desc: "Would you like to know more?",
+    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium accusamus repellat rerum consequatur explicabo? Reiciendis!",
     icon: "ri-money-cny-circle-line",
   },
 
   {
-    title: "Ethereum",
-    desc: "Would you like to know more?",
+    title: "Authereum",
+    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium accusamus repellat rerum consequatur explicabo? Reiciendis!",
     icon: "ri-bit-coin-line",
   },
 ];
@@ -42,7 +42,9 @@ const Wallet = () => {
               <div className="w-50 m-auto">
                 <h3 className="text-light">Connect your wallet</h3>
                 <p>
-                  Connect your imaginary wallet to do all the things...
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                  Minima numquam nisi, quam obcaecati a provident voluptas sequi
+                  unde officiis placeat!
                 </p>
               </div>
             </Col>
