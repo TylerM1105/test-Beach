@@ -16,15 +16,26 @@ import ava05 from "../images/ava-05.png";
 import ava06 from "../images/ava-06.png";
 
 import cb1 from "../images/chillAlex.png"
+import cb2 from "../images/goldenShark.png"
 
 export const NFT__DATA = [
   {
     id: "cb1",
-    title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    title: "The Chillest of Alex's",
+    desc: "The man himself likes to stare blankly into the distance, who knows what may be going on between the ears",
     imgUrl: cb1,
     creator: "A Potato",
     creatorImg: cb1,
+    currentBid: 4.20,
+  },
+
+  {
+    id: "cb2",
+    title: "Golden Bitey Boii",
+    desc: "This rare limited edition bitey boii skimms the beaches for shiney objects",
+    imgUrl: cb2,
+    creator: "A Potato",
+    creatorImg: cb2,
     currentBid: 4.20,
   },
 
