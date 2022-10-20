@@ -17,9 +17,8 @@ const HeroSection = () => {
                 <span>sell extraordinary</span> NFTs
               </h2>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Deleniti excepturi omnis neque adipisci sequi ullam unde in
-                minus quis quos.
+                Create some weird shit at the tip of your fingers, 
+                and share it with the world! 
               </p>
 
               <div className="hero__btns d-flex align-items-center gap-4">
