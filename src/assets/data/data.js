@@ -15,35 +15,36 @@ import ava04 from "../images/ava-04.png";
 import ava05 from "../images/ava-05.png";
 import ava06 from "../images/ava-06.png";
 
-import cb1 from "../images/chillAlex.png"
-import cb2 from "../images/goldenShark.png"
+import cs1 from "../images/chillAlex.png"
+import cs2 from "../images/goldenShark.png"
+import cs3 from "../images/tigerShark.png"
 
 export const NFT__DATA = [
   {
-    id: "cb1",
+    id: "cs1",
     title: "The Chillest of Alex's",
     desc: "The man himself likes to stare blankly into the distance, who knows what may be going on between the ears",
-    imgUrl: cb1,
+    imgUrl: cs1,
     creator: "A Potato",
-    creatorImg: cb1,
+    creatorImg: ava04,
     currentBid: 4.20,
   },
 
   {
-    id: "cb2",
+    id: "cs2",
     title: "Golden Bitey Boii",
     desc: "This rare limited edition bitey boii skimms the beaches for shiney objects",
-    imgUrl: cb2,
+    imgUrl: cs2,
     creator: "A Potato",
-    creatorImg: cb2,
+    creatorImg: ava05,
     currentBid: 4.20,
   },
 
   {
-    id: "01",
-    title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
-    imgUrl: img01,
+    id: "cs3",
+    title: "TigerShark",
+    desc: "Coz heeeeee's GREAT! ",
+    imgUrl: cs3,
     creator: "Trista Francis",
     creatorImg: ava01,
     currentBid: 5.89,
@@ -52,7 +53,7 @@ export const NFT__DATA = [
   {
     id: "02",
     title: "Sir Lion Swag",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Roarrrrr ",
     imgUrl: img02,
     creator: "Trista Francis",
     creatorImg: ava02,
@@ -62,7 +63,7 @@ export const NFT__DATA = [
   {
     id: "03",
     title: "Civilian",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "Civi ",
     imgUrl: img03,
     creator: "Trista Francis",
     creatorImg: ava03,
@@ -72,7 +73,7 @@ export const NFT__DATA = [
   {
     id: "04",
     title: "Guard",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "One of all Guards ",
     imgUrl: img04,
     creator: "Trista Francis",
     creatorImg: ava04,
@@ -82,7 +83,7 @@ export const NFT__DATA = [
   {
     id: "05",
     title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "PlaceHolder",
     imgUrl: img05,
     creator: "Trista Francis",
     creatorImg: ava05,
@@ -92,7 +93,7 @@ export const NFT__DATA = [
   {
     id: "06",
     title: "Sir Lion Swag",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "PlaceHolder",
     imgUrl: img06,
     creator: "Trista Francis",
     creatorImg: ava06,
@@ -102,7 +103,7 @@ export const NFT__DATA = [
   {
     id: "07",
     title: "Civilian",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "PlaceHolder",
     imgUrl: img07,
     creator: "Trista Francis",
     creatorImg: ava03,
@@ -112,7 +113,7 @@ export const NFT__DATA = [
   {
     id: "08",
     title: "Guard",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "PlaceHolder",
     imgUrl: img08,
     creator: "Trista Francis",
     creatorImg: ava04,
@@ -122,7 +123,7 @@ export const NFT__DATA = [
   {
     id: "09",
     title: "Travel Monkey Club",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia, nostrum et deleniti vero corrupti facilis minima laborum nesciunt nulla error natus saepe illum quasi ratione suscipit tempore dolores. Recusandae, similique modi voluptates dolore repellat eum earum sint.",
+    desc: "PlaceHolder",
     imgUrl: img09,
     creator: "Trista Francis",
     creatorImg: ava05,
@@ -167,8 +168,7 @@ export const SELLER__DATA = [
   {
     id: "04",
 
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-
+    desc: "Ryan C",
     sellerName: "Ryan Carder",
     sellerImg: ava04,
     currentBid: 5.89,
@@ -180,7 +180,7 @@ export const SELLER__DATA = [
   {
     id: "05",
 
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
+    desc: "Trista B",
 
     sellerName: "Trista Francis",
     sellerImg: ava05,
@@ -193,7 +193,7 @@ export const SELLER__DATA = [
   {
     id: "06",
 
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
+    desc: "Trista C",
 
     sellerName: "Trista Francis",
     sellerImg: ava06,
@@ -205,7 +205,7 @@ export const SELLER__DATA = [
 
   {
     id: "01",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
+    desc: "Ryan D",
     sellerName: "Ryan Carder",
     sellerImg: ava01,
     currentBid: 5.89,
@@ -216,7 +216,7 @@ export const SELLER__DATA = [
 
   {
     id: "02",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
+    desc: "Trista C",
     sellerName: "Trista Francis",
     sellerImg: ava02,
     currentBid: 5.89,
@@ -227,7 +227,7 @@ export const SELLER__DATA = [
 
   {
     id: "03",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
+    desc: "Ryan E",
     sellerName: "Ryan Carder",
     sellerImg: ava03,
     currentBid: 5.89,
@@ -238,9 +238,7 @@ export const SELLER__DATA = [
 
   {
     id: "04",
-
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-
+    desc: "Ryan F",
     sellerName: "Ryan Carder",
     sellerImg: ava04,
     currentBid: 5.89,
@@ -251,9 +249,7 @@ export const SELLER__DATA = [
 
   {
     id: "05",
-
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-
+    desc: "Trista D",
     sellerName: "Trista Francis",
     sellerImg: ava05,
     currentBid: 5.89,
@@ -264,9 +260,7 @@ export const SELLER__DATA = [
 
   {
     id: "06",
-
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-
+    desc: "Trista E",
     sellerName: "Trista Francis",
     sellerImg: ava06,
     currentBid: 5.89,
