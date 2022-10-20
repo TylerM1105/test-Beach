@@ -133,7 +133,7 @@ export const NFT__DATA = [
 export const SELLER__DATA = [
   {
     id: "01",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
+    desc: "Ryan A",
     sellerName: "Ryan Carder",
     sellerImg: ava01,
     currentBid: 5.89,
@@ -144,7 +144,7 @@ export const SELLER__DATA = [
 
   {
     id: "02",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
+    desc: "Trista",
     sellerName: "Trista Francis",
     sellerImg: ava02,
     currentBid: 5.89,
@@ -155,7 +155,7 @@ export const SELLER__DATA = [
 
   {
     id: "03",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
+    desc: "Ryan B",
     sellerName: "Ryan Carder",
     sellerImg: ava03,
     currentBid: 5.89,
