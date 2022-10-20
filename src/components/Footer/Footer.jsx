@@ -76,9 +76,7 @@ const Footer = () => {
                 NFTs
               </h2>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Voluptate, quod repellat! Quis quos dolorum tenetur fuga?
-                Aspernatur rerum quae amet.
+                Just some random shit, no-one readllyyyyyyy reads this right?
               </p>
             </div>
           </Col>
@@ -151,7 +149,7 @@ const Footer = () => {
           <Col lg="12" className=" mt-4 text-center">
             <p className="copyright">
               {" "}
-              Copyrights 2022, Developed by Muhibur Rahman. @Muhib's Tech Diary
+              Copyrights 2022, Developed by closedBeach.io developers granting freedom into the tech world
               All Rights Reserved.{" "}
             </p>
           </Col>
