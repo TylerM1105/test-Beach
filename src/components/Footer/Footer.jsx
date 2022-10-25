@@ -71,9 +71,9 @@ const Footer = () => {
             <div className="logo">
               <h2 className=" d-flex gap-2 align-items-center ">
                 <span>
-                  <i class="ri-fire-fill"></i>
+                  <i class="ri-drop-line"></i>
                 </span>
-                NFTs
+                  ClosedBeach
               </h2>
               <p>
                 Just some random shit, no-one readllyyyyyyy reads this right?

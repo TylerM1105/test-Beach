@@ -54,9 +54,9 @@ const Header = () => {
           <div className="logo">
             <h2 className=" d-flex gap-2 align-items-center ">
               <span>
-                <i class="ri-sun-line"></i>
+                <i class="ri-drop-line"></i>
               </span>
-              ClosedSea
+              ClosedBeach
             </h2>
           </div>
 
