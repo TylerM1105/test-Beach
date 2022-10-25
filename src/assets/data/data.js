@@ -1,4 +1,4 @@
-import img01 from "../images/img-01.jpg";
+//import img01 from "../images/img-01.jpg";
 import img02 from "../images/img-02.jpg";
 import img03 from "../images/img-03.jpg";
 import img04 from "../images/img-04.jpg";
@@ -18,8 +18,11 @@ import ava06 from "../images/ava-06.png";
 import cs1 from "../images/chillAlex.png"
 import cs2 from "../images/goldenShark.png"
 import cs3 from "../images/tigerShark.png"
+//import cs4 from "https://ipfs.io/ipfs/Qma3Y5FvmTX3tobd1HfCthySLKTdSeekBkALudVWf5AmUw"
+// 
 
 export const NFT__DATA = [
+ 
   {
     id: "cs1",
     title: "The Chillest of Alex's",
