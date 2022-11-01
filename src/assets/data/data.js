@@ -19,7 +19,7 @@ import cs1 from "../images/chillAlex.png"
 
 import cs2 from "../images/goldenShark.png"
 import cs3 from "../images/tigerShark.png"
-import cs4 from "https://ipfs.io/ipfs/Qma3Y5FvmTX3tobd1HfCthySLKTdSeekBkALudVWf5AmUw"
+//import cs4 from "https://ipfs.io/ipfs/Qma3Y5FvmTX3tobd1HfCthySLKTdSeekBkALudVWf5AmUw"
 // 
 
 export const NFT__DATA = [
@@ -54,15 +54,15 @@ export const NFT__DATA = [
     currentBid: 5.89,
   },
 
-  {
-    id: "cs4",
-    title: "TigerShark",
-    desc: "Coz heeeeee's GREAT! ",
-    imgUrl: cs4,
-    creator: "Trista Francis",
-    creatorImg: ava01,
-    currentBid: 5.89,
-  },
+  //{
+  //  id: "cs4",
+  //  title: "TigerShark",
+  //  desc: "Coz heeeeee's GREAT! ",
+  //  imgUrl: cs4,
+  //  creator: "Trista Francis",
+  //  creatorImg: ava01,
+  //  currentBid: 5.89,
+  //},
 
   {
     id: "02",
